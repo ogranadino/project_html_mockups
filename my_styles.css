@@ -1,4 +1,4 @@
-/*
+
 
 Write your custom styles and overrides of Bootstrap in this file.
 
@@ -8,5 +8,17 @@ body {
   font-family: "Vollkorn";
 }
 
-*/
+/*
 
+* {
+  box-sizing: border-box;
+
+   Make the invisible visible
+  border: thin red solid;
+}
+.column25 {
+      float: left;
+      width: 25%;
+      max-height: 250px;
+      }
+*/
